@@ -1,0 +1,169 @@
+html,
+body {
+    height: 297mm;
+    width: 210mm;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+article div>ul {
+    font-size: 80%;
+    line-height: 25px;
+}
+
+
+/* body {
+    border: 1px solid black;
+} */
+
+#picture-profile {
+    width: 20%;
+    border-radius: 100px;
+    display: block;
+    padding-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main-title {
+    text-align: center;
+    font-weight: lighter;
+    letter-spacing: 6px;
+}
+
+#profile {
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.section-title,
+.title {
+    color: #224C8D;
+}
+
+.title {
+    letter-spacing: 2px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+#separator-before-content {
+    text-align: center;
+    border: 2px solid #18396b;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+}
+
+article {
+    width: 50%;
+    margin-left: 10px;
+}
+
+article h5 {
+    font-weight: 500;
+}
+
+p {
+    text-align: justify;
+    width: 80%;
+    font-size: 80%;
+    line-height: 25px;
+}
+
+table {
+    width: 80%;
+    /* border: 1px solid black; */
+}
+
+.subject {
+    font-size: 80%;
+    width: 40%;
+}
+
+.gauge {
+    background: gray;
+    display: inline-block;
+    border-radius: 20px;
+    width: 140px;
+    height: 10px;
+    padding: 0;
+    margin: 0;
+}
+
+.percent {
+    font-size: 80%;
+    display: inline-block;
+}
+
+.p-20 {
+    background: #224C8D;
+    height: inherit;
+    border-radius: 20px;
+    width: 25%;
+}
+
+.p-25 {
+    background: #224C8D;
+    height: inherit;
+    border-radius: 20px;
+    width: 30%;
+}
+
+.p-30 {
+    background: #224C8D;
+    height: inherit;
+    border-radius: 20px;
+    width: 35%;
+}
+
+.p-35 {
+    background: #224C8D;
+    height: inherit;
+    border-radius: 20px;
+    width: 40%;
+}
+
+.p-50 {
+    background: #224C8D;
+    height: inherit;
+    border-radius: 20px;
+    width: 55%;
+}
+
+.p-40 {
+    background: #224C8D;
+    height: inherit;
+    border-radius: 20px;
+    width: 45%;
+}
+
+.p-45 {
+    background: #224C8D;
+    height: inherit;
+    border-radius: 20px;
+    width: 50%;
+}
+
+.p-55 {
+    background: #224C8D;
+    height: inherit;
+    border-radius: 20px;
+    width: 55%;
+}
+
+.p-60 {
+    background: #224C8D;
+    height: inherit;
+    border-radius: 20px;
+    width: 65%;
+}
+
+.p-65 {
+    background: #224C8D;
+    height: inherit;
+    border-radius: 20px;
+    width: 70%;
+}
