@@ -12,9 +12,9 @@ article div>ul {
 }
 
 
-/* body {
+body {
     border: 1px solid black;
-} */
+}
 
 #picture-profile {
     width: 20%;
@@ -71,6 +71,10 @@ p {
     width: 80%;
     font-size: 80%;
     line-height: 25px;
+}
+
+.small-title {
+    font-size: 90%;
 }
 
 table {
@@ -166,4 +170,10 @@ table {
     height: inherit;
     border-radius: 20px;
     width: 70%;
+}
+
+ul li {
+    font-size: 80%;
+    line-height: 25px;
+    width: 90%;
 }
